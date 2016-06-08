@@ -2,21 +2,20 @@
 layout: default
 ---
 
-    <article id="main">
+<article id="main">
   <header class="special container">
     <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%-d %b %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <section class="style4 wrapper container">
     {{ content }}
   </section>
-    
-    <footer>
-        {% if page.previous %}
-        <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
-        {% if page.next %}
-        <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
-    </footer>
-</article>
 
+  <footer>
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}" class="post-prev">&larr; Article précédent</a> {% endif %}
+    {% if page.next %}
+    <a href="{{ page.next.url }}" class="post-next">Article suivant &rarr;</a> {% endif %}
+  </footer>
+</article>
