@@ -10,11 +10,12 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%-d %b %Y" }}{% if page.author %} •
       <a rel="author" href="{{ author.twitter }}" title="{{ author.pseudo }}">{{ author.pseudo }}</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
     </p>
+    <ul class="buttons" style="margin-top: 10px;">
     {% for categorie in page.categories %}
-      <button>
-        {{ categorie }}
+      <li class="button special">{{categorie}}</li>
       </button>
     {% endfor %}
+    </ul>
   </header>
 
   <section class="style4 wrapper container">
