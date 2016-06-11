@@ -6,7 +6,6 @@ author: La compagnie créole
 categories: Expo
 ---
 
-<span class="image featured"><img src="/images/pic03.jpg" alt=""></span>
 Bonjour, bonjour,  
 Je viens vous inviter.  
 Laissez tout tomber,  
