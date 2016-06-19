@@ -7,7 +7,7 @@ categories: Resto Bar
 ---
 
 Grand train est un immense bar/resto qui se trouve dans le 18ème au 26 ter, rue Ordener.
-Ce bar (appelons le bar pour plus de simplicité car on aime la simplicité) n'est qu'éphémère. Il est ouvert du 30 avril au 16 octobre. Au programme, moultes activités sont disponibles. 
+Ce bar (appelons le bar pour plus de simplicité car on aime la simplicité) n'est qu'éphémère. Il est ouvert du 30 avril au 16 octobre. Au programme, moultes activités sont disponibles.
 
 On peut prendre à manger dans l'un des 10 différents restaurants prévus sur place et aller déguster le tout sur des rails. Des tables de ping-pong et des baby-foot sont également mise à disposition. Le tout, arrosé de la boisson de votre choix (bières locales, vins, ...). Des évènements sont régulièrement organisé avec la liste des infos sur le [site Facebook](https://www.facebook.com/grandtrain/events/)
 
@@ -15,4 +15,4 @@ On peut prendre à manger dans l'un des 10 différents restaurants prévus sur p
 
 Site officiel : [Grand train](http://www.grandtrain.com/)
 
-[graph](../images/grand-train/IMG_20160610_192739.jpg)
+![graph](../images/grand-train/IMG_20160610_192739.jpg)
