@@ -8,6 +8,8 @@ categories: Resto
 
 Vous voulez vous évader vers de nouveaux horizons en plein Paris ? Foncez chez Massawa ! Si le restaurant pourrait presque passer inaperçu, c’est pourtant une petite pépite.
 
+![plat-massawa](/images/massawa/Massawa-N01.jpg)
+
 Massawa propose de la cuisine erythréenne. Ici, vous mange dans un seul grand plat à partager avec les personnes qui vous accompagnent. Avec les doigts s’il vous plait ! Une petite crêpe à découper vous servira de couverts. Les serveurs sont là pour vous guider et vous expliquer la carte. Etant 4 lors de notre essai, nous avons donc pu essayer plein de différents plats. Bien relevés et généreusement servis, c’était un plaisir pour les papilles. 
 
 Pour ce prix-là, ne réfléchissez pas plus longtemps. Massawa c’est une belle expérience à partager ! 
