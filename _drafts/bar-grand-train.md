@@ -15,4 +15,4 @@ On peut prendre à manger dans l'un des 10 différents restaurants prévus sur p
 
 Site officiel : [Grand train](http://www.grandtrain.com/)
 
-[graph](/images/grand-train/IMG_20160610_192739.jpg)
+[graph](../images/grand-train/IMG_20160610_192739.jpg)
